@@ -22,7 +22,7 @@
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=ffffff)
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-#FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=ffffff)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=ffffff)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=ffffff)
 ![Numpy](https://img.shields.io/badge/-Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=ffffff)
 ![scikitlearn](https://img.shields.io/badge/-scikitlearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=ffffff)
