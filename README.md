@@ -11,7 +11,7 @@
   <em>
   <h3>
     <a href="https://www.momentoushistory.com">
-      Historical-based website
+      GPT based website
     </a>
   </h3>
     </em>
