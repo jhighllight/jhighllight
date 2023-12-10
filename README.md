@@ -4,14 +4,14 @@
   <em>
     <h3> 
       <a href="https://highllight.tistory.com">
-        Blog
+        AI Blog
       </a>
     </h3>
   </em>
   <em>
   <h3>
     <a href="https://www.momentoushistory.com">
-      Generative AI(Gpt4, Dall·e 3) based website
+      Generative AI(GPT4, DALL·E 3) based website
     </a>
   </h3>
     </em>
