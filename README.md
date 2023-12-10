@@ -11,7 +11,7 @@
   <em>
   <h3>
     <a href="https://www.momentoushistory.com">
-      GPT based website
+      Generative AI(Gpt4, Dall·e 3) based website
     </a>
   </h3>
     </em>
