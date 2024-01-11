@@ -11,7 +11,7 @@
   <em>
   <h3>
     <a href="https://www.momentoushistory.com">
-      Generative AI(GPT-4, CLOVA X, Stable Diffusion XL, DALL·E 3) based website
+      Generative AI(LangChain, Stable Diffusion XL) based website
     </a>
   </h3>
     </em>
