@@ -8,14 +8,6 @@
       </a>
     </h3>
   </em>
-  <em>
-  <h3>
-    <a href="https://www.momentoushistory.com">
-      Generative AI(LangChain, Stable Diffusion XL) based website
-    </a>
-  </h3>
-    </em>
-  </em>
 </p>
 
 <h2> My tech stack 💻 </h2>
