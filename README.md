@@ -1,15 +1,5 @@
 <h1> Jaehyun Park </h1>
 
-<p>
-  <em>
-    <h3> 
-      <a href="https://highllight.tistory.com">
-        AI Blog
-      </a>
-    </h3>
-  </em>
-</p>
-
 <h2> My tech stack 💻 </h2>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
